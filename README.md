@@ -1,6 +1,6 @@
 # Mates - Grupo 20
 
-Entregable de la asignatura **02MIAR (Matemáticas para la IA)**, Máster Universitario en Inteligencia Artificial (VIU).
+Entregables de la asignatura **02MIAR (Matemáticas para la IA)**, Máster Universitario en Inteligencia Artificial (VIU).
 
 ## Integrantes
 
